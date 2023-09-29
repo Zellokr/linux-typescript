@@ -28,7 +28,7 @@
         <div class="body-slim">
           <p>
             Para ver los proyectos creados, vaya a la terminal y escriba <strong>"cd gameboycss"</strong> o <strong>"cd cv"</strong> y monte el proyecto que desee visualizar con el
-            comando <span class="bg-green-400 font-bold"> npm run build </span>
+            comando <span class="bg-green-400 font-bold"> npm run dev </span>
           </p>
           <p>
             Todos los proyectos han sido creados con VUEJS (HTML, Typescript y
