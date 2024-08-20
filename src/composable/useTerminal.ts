@@ -33,7 +33,7 @@ export function useTerminal() {
 
   const manageCommand = () => {
     emitter.on("enterCommand", (array: [string, HTMLElement, boolean]) => {
-      console.log(array)
+
       switch (array[0]) {
         case "clear":
           stateTer.lines = 0;
